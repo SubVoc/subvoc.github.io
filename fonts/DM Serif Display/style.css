@@ -1,0 +1,14 @@
+@font-face {
+   font-family: 'DM Serif Display';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///D:/Work/SubVocabulary/site/fonts/DM Serif Display/regular.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'DM Serif Display';
+   font-style: italic;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///D:/Work/SubVocabulary/site/fonts/DM Serif Display/italic.ttf') format('truetype');
+}
